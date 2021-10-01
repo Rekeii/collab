@@ -77,7 +77,7 @@ Fig. 3.6 Debris flow move down from higher elevations without the help of water.
 Source: http://blogs.agu.org/landslideblog/files/2013/10/Chorabari-Glaciers-Kedarnath-17-Panorama.jpg (accessed on 30 October 2015)
 
 ##### **Mud Flow**
-- combined soil and water flow downslope. Happens near rivers or streams or wherever land is always moist or has been soaked in water for a longtime.
+- combined soil and water flow downslope. Happens near rivers or streams or wherever land is always moist or has been soaked in water for a long time.
 - Its weight indicates the severity of the risk.
 
 ![[Pasted image 20211001163427.png]]
@@ -87,9 +87,21 @@ Source: http://www.mediacitygroove.com/wp-content/uploads/2010/02/mud-flow-in-la
 
 ##### **Slump**
 - slow downslope movement of loosely consoidated materials or rock and soil layers.
-- In time, area becomes curved because of the depression formed by the downslope movement of the land.
+- In time, the area becomes curved because of the depression formed by the downslope movement of the land.
 
 ![[Pasted image 20211001163524.png]]
 
 Fig. 3.8 Heavy rains saturated the land and caused a part of the hill to move downhill.
 Source: http://blogs.egu.eu/network/geosphere/files/2015/07/1MG_2860/jpg (accessed on 30 October 2015)
+
+#### Sedimentation 
+- accumulation of materials such as soil, rock fragments, and soil particles settling at the bottom. Over time, the sediment load becomes thick and forms a new layer of ground.
+- usually occurs in stream and sea erosion.
+- in small inland waters, this sediment layer eventually dries up and becomes a part of the soil in its environment.
+- in oceans, forms ocean basin. They can change shape and size due to continuous geologic cycle. (change depends on the rate of erosion).
+
+![[Pasted image 20211001190022.png]]
+
+Fig. 3.9 During storms and rainfalls, sand and soil on the banks of a stream are washed away into the stream causing sedimentation.
+Source: http://water.usgs.gov/edu/characteristics.html (accessed on 29 July 2015)
+

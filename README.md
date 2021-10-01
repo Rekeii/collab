@@ -17,7 +17,7 @@ Obsidian is a markdown note-taking system.
 - **08 Templates** - templates. (Enable Settings > Core Plugins > Templates , change template folder to 08 Templates)
 
 ## Contributing:
-Wanna join us? Tell me and I'll add you as a contributer. Follow [this](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md), clone this repository. Create a new vault onto the cloned repository, turn off safe mode and install [ObsidianGit.](https://github.com/denolehov/obsidian-git)
+Wanna join us? Tell me and I'll add you as a contributer. Follow [this](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md), no need to make an empty repository, just clone mine. Create a new vault onto the cloned repository, turn off safe mode and install [ObsidianGit.](https://github.com/denolehov/obsidian-git)
 
 
 ## What do we use?
