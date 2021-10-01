@@ -11,7 +11,9 @@ Upon completion of this lesson, the learners are expected to:
 - explain how the products of weathering are carried away by erosion and deposited elsewhere**(S11/12ES-IIa-b-23)**; and
 - explain how rocks and soil move downslope due to direct action of gravity**(S11/12ES-IIb-22)**.
 ---
+
 ## Exogenous Processes on Earth
+
 The exogenous processes are natural processes that occur on or near the surface of Earth. They leave significant changes on the landscape and/or the ecosystem of the area. This can be either harmful and helpful.
 
 ### Types of Exogenous Processes
