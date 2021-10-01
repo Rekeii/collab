@@ -1,4 +1,3 @@
-
 # Introduction
 An introduction to this spaghetti-style, absolutely scuffed hub of our brains combined. All done via [git](https://git-scm.com) and [ObsidianMD](https://obsidian.md/). 
 
