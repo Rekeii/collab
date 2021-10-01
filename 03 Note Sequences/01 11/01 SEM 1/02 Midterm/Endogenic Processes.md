@@ -20,7 +20,7 @@ They are also responsible for earthquakes, movement of plates leading to develop
 
 ### Types of Endogenous Processes
 
-#### **Magmatism**
+#### Magmatism
 - occurs when magma is generated and develops into igneous (magmatic) rocks.
 - magma is very hot and is constantly moved by internal heat.
 	- forms when rocks reach temperatures between 800°C and 1200°C. 
@@ -32,7 +32,7 @@ They are also responsible for earthquakes, movement of plates leading to develop
 Fig. 3.10 Schematic representation of Earth's magmatic and volcanic processes.
 Adapted from: https://commons.wikimedia.org/wiki/File:Magmatism_and_volcanism_EN.svg (accessed on 5 July 2015)
 
-#### **Volcanism or Plutonism**
+#### Volcanism or Plutonism
 - process that happens after magma is formed. 
 - magma tries to escape from the source through openings like volcanoes or existing cracks on the ground. 
 	- comes out with extreme heat and pressure; causes destructive explosions.
@@ -43,7 +43,7 @@ Adapted from: https://commons.wikimedia.org/wiki/File:Magmatism_and_volcanism_EN
 Fig. 3.11 Hot lava is thrown up out of Kilauea Volcano in Hawaii
 Source: http://hvo.wr.usgs.gov/gallery/kilauea/erupt/24ds064_L.jpg (accessed on 4 November 2015)
 
-#### **Metamorphism**
+#### Metamorphism
 - process of changing the materials that make up a rock.
 - chemical and geologic characteristics of the rock change due to heat, fluids and pressure that is increasing or decreasing.
 - minerals in the rock may change even if it does not melt.
@@ -59,26 +59,26 @@ Source: http://hvo.wr.usgs.gov/gallery/kilauea/erupt/24ds064_L.jpg (accessed on 
 
 ### Types of Stress Influencing Rock Behavior
 
-#### **Compression**
+#### Compression
 - rocks push, squeeze, fold or fracture against one another where the stress produced is directed toward the center.
 - one of the most common stress at covergent plate boundaries
 - when rocks meet, the orientation could either be horizontal or vertical.
 	- Horizontally, the crust may thicken or shorten.
 	- Vertically, the crust can thin out or break off.
 
-#### **Tension**
+#### Tension
 - rocks are pulled apart and may separate in opposite directions.
 - causes rocks to lengthen or break apart.
 - rocks may move farther away from one another.
 - major type of stress at divergent plate boundaries.
 - speculated that this type of stress is what separated all the continents in the world during the breaking away of the supercontinent known as Pangaea.
 
-#### **Shearing**
+#### Shearing
 - some of the portions of a plate at the edges may break away in different directions, making the plate smaller in size.
 - usually happens in different rates at the boundaries of the plate.
 - the friction caused by this stress can cause *earthquakes.*
 
-#### **Confining**
+#### Confining
 - crust becomes compact, making it smaller.
 - if breaking should happen, movement would come from the inside.
 - shape of the crust *can* be retained, though not its weight. Nothing seems like have changed as all the changes happen internally.

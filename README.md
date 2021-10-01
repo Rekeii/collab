@@ -1,8 +1,8 @@
 
 # Introduction
-An introduction to this spaghetti-style, absolutely scuffed hub of our brains combined. All done via [git](https://git-scm.com) and [ObsidianMD](https://obsidian.md/). 
+An introduction to this spaghetti-style, absolutely scuffed hub of our brains combined. All done via [git](https://git-scm.com), [ObsidianMD](https://obsidian.md/) and [Zotero](https://www.zotero.org/).
 
-Obsidian is a markdown note-taking system.
+We may or may not be organized. We may or may not have notes flying everywhere.
 
 ## File system explained:
 
@@ -17,7 +17,26 @@ Obsidian is a markdown note-taking system.
 - **08 Templates** - templates. (Enable Settings > Core Plugins > Templates , change template folder to 08 Templates)
 
 ## Contributing:
-Wanna join us? Tell me and I'll add you as a contributer. Follow [this](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md), no need to make an empty repository, just clone mine. Create a new vault onto the cloned repository, turn off safe mode and install [ObsidianGit.](https://github.com/denolehov/obsidian-git)
+Wanna join us? Tell me and I'll add you as a contributer. Follow [this](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md), no need to make an empty repository, just clone mine using Github Desktop. Create a new vault onto the cloned repository, turn off safe mode and install [ObsidianGit.](https://github.com/denolehov/obsidian-git). 
+
+- {{date}} placeholder format : MM-DD-YYYY HH:mm:ss 
+- pick the main branch
+- 
+
+### Things to Note:
+[Obsidian](https://obsidian.md/) is a markdown app. You may need to learn a bit, but it's super easy to learn, no worries. 
+
+- [Markdown Guide](https://www.markdownguide.org/)
+
+[Obsidian](https://obsidian.md/) also supports LaTeX integration. This makes us be able to type equations and create documents. (Though we're mainly going to be using it for math) It might be hard to grasp at first, though we're all learning here. 
+
+- [LaTeX Documentation](https://www.latex-project.org/help/documentation/)
+- [LaTeX-Tutorial](https://latex-tutorial.com/tutorials/)
+- [CalTech's LaTeX Quick Guide](https://www.library.caltech.edu/sites/default/files/latex-quickguide.pdf)
+
+[Obsidian](https://obsidian.md/) also supports Mermaid diagrams. This allows you to make diagrams right inside Obsidian by typing a few words. Try to get a feel of it here: [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor)
+
+- [Obsidian Basics: Diagrams](https://youtu.be/rXhUeV5Ko7g)
 
 
 ## What do we use?
@@ -28,6 +47,8 @@ Wanna join us? Tell me and I'll add you as a contributer. Follow [this](https://
 #### Core Plugins
 - Templates
 ![[Pasted image 20211001154351.png]]
+- Outlines
+- Word Count
 
 ### CSS Snippets:
 - Centering all images:
