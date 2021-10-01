@@ -21,7 +21,6 @@ Wanna join us? Tell me and I'll add you as a contributer. Follow [this](https://
 
 - {{date}} placeholder format : MM-DD-YYYY HH:mm:ss 
 - pick the main branch
-- 
 
 ### Things to Note:
 [Obsidian](https://obsidian.md/) is a markdown app. You may need to learn a bit, but it's super easy to learn, no worries. 
@@ -37,7 +36,6 @@ Wanna join us? Tell me and I'll add you as a contributer. Follow [this](https://
 [Obsidian](https://obsidian.md/) also supports Mermaid diagrams. This allows you to make diagrams right inside Obsidian by typing a few words. Try to get a feel of it here: [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor)
 
 - [Obsidian Basics: Diagrams](https://youtu.be/rXhUeV5Ko7g)
-
 
 ## What do we use?
 ### Plugins:
