@@ -23,7 +23,7 @@ The exogenous processes are natural processes that occur on or near the surface 
 - Happens on the spot.
 
 ##### **Physical Weathering** 
-- breakdown of rocks by mechanical forces concentrated along rock fractures.
+- breakdown of rocks by mechanical forces concentrated along rock fractures. ^40b47b
 - may be due to, sudden or not, temperature, pressure, frost, etc. (ex. soils crack because of extreme heat or drought)
 - water, wind or ice may scrape rocks or soils.
 
@@ -48,7 +48,7 @@ Source: http://2.bp.blogspot.com/-93vcRFjF2vY/UVaYQpD8NBI/AAAAAAAABd0/IciH5IngaJ
 #### **Erosion**
 - process by which the Earth's surface is worn away by wind, water, or ice.
 - *moves* rock debris or soil from one place to another.
-- usually when there is rainfall, surface runoff, flowing river, seawater intrusion, flooding, freezing and thawing, hurricane, wind, etc.
+- usually when there is rainfall, surface runoff, flowing river, seawater intrusion, flooding, freezing and thawing, hurricane, wind, etc. ^042156
 - these processes are capable of exfoliating and scraping the surface and exposing the layers underneath it.
 - living organisms can cause erosion too. When animals stampeded or migrate, their movement can cause erosion. When animals overgraze. Deforestation and urbanization.
 - causes massive *deterioration* and *destruction* of surface structure and foundation.
