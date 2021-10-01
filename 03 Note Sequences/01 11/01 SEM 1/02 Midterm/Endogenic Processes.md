@@ -92,3 +92,7 @@ Fig. 3.12 Different types of stress that influence rocks.
 Source: http://www.tulane.edu/~sanelson/geol111/deform.htm (accessed on 29 July 2015)
 
 The forces that drive the geological processes of Earth exert stress on rocks. The effects of these tensions form the landscape of the Earth. 
+
+## See also:
+- [[Exogenic Processes]]
+- [[100120212310]] Questions to Ask Yourself - Earth Science
