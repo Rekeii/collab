@@ -1,6 +1,6 @@
 ---
-title:SEM1MIDTERMS EARTH SCIENCE
-tags: EarthSci SPS SHS SEM0102
+title: Exogenic Processes
+tags: EarthSci SPS SHS SEM0102 🪨
 toc: true
 season: summer
 ---

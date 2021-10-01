@@ -1,6 +1,6 @@
 ---
-title:SEM1MIDTERMS EARTH SCIENCE
-tags: EarthSci SPS SHS SEM0102
+title: Endogenic Processes
+tags: EarthSci SPS SHS SEM0102 🪨
 toc: true
 season: summer
 ---
@@ -54,15 +54,41 @@ Source: http://hvo.wr.usgs.gov/gallery/kilauea/erupt/24ds064_L.jpg (accessed on 
 			- If the change in a rock happens in a larger or more extensive area, ex. mountain range. Resulting in a larger-scale action of heat and pressure.
 - rocks changing due to weathering and sedimentation are not considered to have undergone metamorphism.
 
+### [STRESS](https://drive.google.com/file/d/1AswBkcsfNnwo_c02VvvZ8ICUE1TdpkeM/view)
+- the force applied to an object. In geology, is the force per unit area that is placed on a rock.
+
 ### Types of Stress Influencing Rock Behavior
 
 #### **Compression**
-- rocks push or squeeze against one another where the stress produced is directed toward the center.
+- rocks push, squeeze, fold or fracture against one another where the stress produced is directed toward the center.
+- one of the most common stress at covergent plate boundaries
 - when rocks meet, the orientation could either be horizontal or vertical.
 	- Horizontally, the crust may thicken or shorten.
 	- Vertically, the crust can thin out or break off.
 
 #### **Tension**
 - rocks are pulled apart and may separate in opposite directions.
+- causes rocks to lengthen or break apart.
 - rocks may move farther away from one another.
+- major type of stress at divergent plate boundaries.
 - speculated that this type of stress is what separated all the continents in the world during the breaking away of the supercontinent known as Pangaea.
+
+#### **Shearing**
+- some of the portions of a plate at the edges may break away in different directions, making the plate smaller in size.
+- usually happens in different rates at the boundaries of the plate.
+- the friction caused by this stress can cause *earthquakes.*
+
+#### **Confining**
+- crust becomes compact, making it smaller.
+- if breaking should happen, movement would come from the inside.
+- shape of the crust *can* be retained, though not its weight. Nothing seems like have changed as all the changes happen internally.
+- Confining stress can cause sinkholes, the inside portion of the ground has already disintegrated while on the surface seems like nothing has changed.
+- different from shearing as none of its edges break away. 
+- "a deeply buried rock is pushed down by the weight of all the material above it. Since the rock cannot move, it cannot deform."
+
+![[Pasted image 20211001224659.png]]
+
+Fig. 3.12 Different types of stress that influence rocks.
+Source: http://www.tulane.edu/~sanelson/geol111/deform.htm (accessed on 29 July 2015)
+
+The forces that drive the geological processes of Earth exert stress on rocks. The effects of these tensions form the landscape of the Earth. 
