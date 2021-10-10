@@ -1,6 +1,6 @@
 ---
 title: 
-tags: School Notes
+tags: 📓
 toc: true
 season: 
 ---

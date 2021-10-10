@@ -1,6 +1,6 @@
 ---
 title: Earth Science Index
-tags: Index EarthSci
+tags: 📘 🪨
 toc: true
 season: 
 ---

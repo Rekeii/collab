@@ -1,6 +1,6 @@
 ---
 title:
-tags: Index
+tags: 📘
 toc: true
 season: 
 ---
