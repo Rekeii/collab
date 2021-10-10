@@ -48,11 +48,11 @@ People speak because they want to convey information, inspire, persuade, or ente
 
 #### Organization
 - Three Parts:
-	- Introduction
+	- **Introduction**
 		- have introductory statements describing the topic in an interesting way.
-	- Body
+	- **Body**
 		- has substantial details supporting the main points of the topic.
-	- Concluding
+	- **Concluding**
 		- to recap the significant points about the topic.
 - should study the subject matter comprehensively and organize information. 
 	- Suggestion: utilize outlines to help with this.
@@ -125,6 +125,86 @@ People speak because they want to convey information, inspire, persuade, or ente
 - aims to convert the audience to the speaker's side.
 - centers on controversial issues; presents evidence
 - to arrive at the truth of the matter after the presentation of a logical series of reasons or evidence.
+
+### Types of Appeals
+1. Appeal to Reason **(Logos)**
+	1. rhetorical strategy used to lead the audience in making a conclusion based on facts.
+2. Appeal to Emotions **(Pahots)**
+	1. used to persuade the audience through feelings
+3. Appeal to Character **(Ethos)**
+	1. appeal to ethics, based on the character of the persuader.
+
+## Persuasive
+- aimed at convincing the audience to believe or adapt something.
+- strongest type of speech in public speaking.
+- backbone for this persuasive strength may have established from Aristotle's forms of rhetoric.
+
+### Characteristics
+1. **Introductory Phase**
+	- start with a strong impression or feeling.
+2. **Goal**
+	- your objective.
+3. **Audience**
+	- be aware of your audience. You'll be better in persuading them when you take note of them and edit your speech to them.
+4. **Voice**
+	- speak with conviction and assurance,
+	- with sensible and unbiased remarks.
+5. **Focus of Persuasion**
+	1. **Fact**
+		- use facts that are verifiable. 
+	2. **Value**
+		- where you can argue on the right or wrong of an action or when one is better or worse than the other. 
+		- ex. Arguing that exclusive schools are better than COED Schools.
+	3. **Policy**
+		- persuade audience on the actions that should or should not be taken.
+		- ex. persuading that junk food should be banned in primary and secondary levels.
+
+### Methods of Persuasion
+- from Aristotle's forms of rhetoric.
+
+- **Ethos**
+	- understands the speaker's appeal, credibility, and authority.
+		- Competence (or expertise)
+		- Authority
+		- Truthfulness
+		- Respect
+- **Pathos**
+	- shows the capability of a speaker to relate to his or her audience emotionally.
+	- should be able to develope the ability to raise feelings of assiociation or compatibility from his or her audience so that they would be persuaded.
+	- Aristotle, "To understand the emotions-that is, to name them and describe them, to know their causes and the way in which they are excited."
+		- intense recounting
+		- wittiness humor
+		- pleasing presentation of information
+		- sensitive emphasis in themes and arguments
+- **Logos**
+	- utilizes strategies of logic to convince the audience. (uses reasoning, well-defined, brief and rational arguments)
+		- substantial evidences and examples
+		- up-to-date statistical data
+		- relevant research studies
+		- verifiable facts
+		- significant historial evidences
+
+### Structure
+
+1. **Introduction**
+	1. Salutation and Attention getter 
+	2. State goal or purpose of your speech. 
+	3. State thesis statement. 
+		1. Should provide opinions. 
+	4. Preview the points you are going to discuss.
+		1. Create an atmosphere of fairness by summarizing opposing arguments before stating with clearness the points you will argue.
+2. **Body**
+	1. Use transitions.
+	2. Support your arguments.
+	3. Review your arguments.
+3. **Conclusion**
+	1. Sign
+
+## Entertainment
+
+### Writing..
+
+### Delivering
 
 
 
