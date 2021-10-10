@@ -8,7 +8,7 @@
 .obsidian/plugins/*
 
 # Exclude consultant specific files "personal"
-05*-*Personal/
+10*-*Personal/
 
 # Exclude Day Planner directory placed in vault root
 Day*Planners/*
