@@ -26,7 +26,105 @@ People speak because they want to convey information, inspire, persuade, or ente
 
 ### Description
 - uses descriptive words to appeal to the senses.
-- fundamental to other types of speeches
+- fundamental to other types of speeches. 
+
+### Tips:
+- Choose a topic that will be interesting to the audience.  
+- Quality is more important than quantity. Keep your speech simple by not giving too much information so as not to confuse or lose your audience. 
+- Use terms that your audience will understand. If you need to introduce a new terminology, make sure to define or explain what it means. 
+- Use facts and statistics sparingly.
+- Stick to your purpose which is providing your audience information.
+
+### Characteristics
+#### Topic and Goal
+- to inform, educate the audience about a subject that is beneficial and noteworthy.
+- define, describe, announce, explain the subject matter without taking sides or show bias.
+- should **not** be argumentative
+
+#### Details
+- use accurate data and appropriate illustrations or examples.
+- transitions should be used to signal significant details to your audience.
+- try and give examples to help your audience comprehend.
+
+#### Organization
+- Three Parts:
+	- Introduction
+		- have introductory statements describing the topic in an interesting way.
+	- Body
+		- has substantial details supporting the main points of the topic.
+	- Concluding
+		- to recap the significant points about the topic.
+- should study the subject matter comprehensively and organize information. 
+	- Suggestion: utilize outlines to help with this.
+
+### Methods in Organizing Informative Speeches
+#### Chronological
+- **KEYWORD: TIME**
+- follows a **time pattern** procedure.
+- organizes facts, incidents, events or occasions based on progression of **time** or order they happened in **time.**
+	- ex. History of Anime:
+		- How it was created?
+		- Development overtime.
+		- What the future holds?
+- Each main part of information represents a specific period of time. Supporting ideas under it discuss the important events that took place.
+
+![[Pasted image 20211010170206.png]]
+
+#### Sequential
+- **KEYWORD: STEP-BY-STEP** (SEQUENCE!)
+- typically used to illustrate or describe a specific process.
+
+![[Pasted image 20211010170303.png]]
+
+#### Spatial
+- **KEYWORDS: PHYSICAL; SYSTEMATIC; SPACE**
+- uses the concept of **space.*
+- organizes information based on how things appear in physical space such as: geography, floor plans, instrument panel.
+	- may also organize from a start point - end point.
+- often used to describe a physical set-up moving in a systematic way from one feature to the next.
+- helps readers picture and better understand the **physical** qualities of the topic.
+- ex. Touring the Senate of the Philippines
+
+#### Cause and Effect
+- **KEYWORD: CAUSE-EFFECT**
+- shows cause and effect relationship.
+
+![[Pasted image 20211010170655.png]]
+
+#### Topical / Logical
+- used when presenting an idea that has several other sub-ideas.
+
+![[Pasted image 20211010170709.png]]
+
+### Structure
+
+1. **Introduction**
+	1. Salutation & Attention getter
+	2. State goal / purpose
+	3. Thesis statement
+	4. Preview it.
+2. **Body**
+	1. Use any of the five (5) organizational methods previously discussed.
+	2. Use transitions.
+3. **Conclusion**
+	1. Signal to audience that your are about to end your speech.
+	2. Restate thesis statement
+	3. Recap important and major points.
+
+## Inspirational Speech
+- **motivate and inspire,** to be optimistic.
+- may also give information, persuade and entertain but main goal is to inspire.
+
+### Tips
+1. Speak from the heart.
+2. Believe in your topic.
+3. Keep audience's interest high.
+4. Do or Be your best.
+
+## Argumentative
+- aims to convert the audience to the speaker's side.
+- centers on controversial issues; presents evidence
+- to arrive at the truth of the matter after the presentation of a logical series of reasons or evidence.
 
 
 
