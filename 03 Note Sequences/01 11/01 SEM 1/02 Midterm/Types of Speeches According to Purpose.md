@@ -14,6 +14,9 @@ Upon completion of this lesson, the learners are expected to distinguish the typ
 
 People speak because they want to convey information, inspire, persuade, or entertain. This note aims to introduce the different types of speeches.
 
+## Basic:
+- Thesis Statement - one to two sentences that describe what the topic is all about.
+
 ## Informative Speech 
 ### Demonstration or Explanation
 - "how to" or "process speech"
@@ -190,21 +193,57 @@ People speak because they want to convey information, inspire, persuade, or ente
 	1. Salutation and Attention getter 
 	2. State goal or purpose of your speech. 
 	3. State thesis statement. 
-		1. Should provide opinions. 
+		- Should provide opinions. 
 	4. Preview the points you are going to discuss.
-		1. Create an atmosphere of fairness by summarizing opposing arguments before stating with clearness the points you will argue.
+		- Create an atmosphere of fairness by summarizing opposing arguments before stating with clearness the points you will argue.
 2. **Body**
 	1. Use transitions.
 	2. Support your arguments.
 	3. Review your arguments.
 3. **Conclusion**
-	1. Sign
+	1. Signal to your audience that you are about to end your speech.
+	2. Restate thesis.
+	3. Recap major points.
+		- Or, you could also propose solutions instead.
+	4. Audience should feel informed, contented and agreeable to reexamine to act upon concerns you have offered.
+
+### Tips
+- Establish credibility. You can do this by presenting facts, statisitcs, statements or quotes, and even personal experiences.
+- Convey your subject with passion and enthusiasm. Show you are not only a speaker but is also involved.
+- Choose a doable proposition.
 
 ## Entertainment
+- make the audience smile, relax and enjoy or even laugh and to help them forget their problems.
 
 ### Writing..
+1. **Prepare the backbone.**
+	- Composed of the main ideas of your speech.
+2. **For each of your main ideas, add anecdotes, jokes, witty comments, and other entertaining remarks that will capture your audience's attention.**
+3. **Write your thesis.** 
+	- Make it entertaining. 
+	- You can use anecdotes, jokes, witty and entertaining remarks.
+4. **Restate your thesis as your conclusion.**
+	- Does not need entertaining remarks, it's just a conclusion.
+5. **Review/Edit your speech.**
 
 ### Delivering
+
+1. **Test your delivery.** 
+	 - Practice your delivery. Try practicing to someone whose background is very similar to your target audience. This will allow you to get comments on your performance.
+2. **Make use of verbal and nonverbal language.**
+	 - Nonverbal language can really add or enhance your performance. Try using it.
+	 - But, do not be over reliant on them.
+3. **Avoid overused routines.**
+	 - You may end up irritating your audience instead.
+
+### Tips
+
+1. **Open an anecdote.**
+2. **Explain point of anecdote.**
+3. **Beef up theme with additional anecdotes.**
+4. **Conclude by restating your central point.**
+5. **Finish with great anecdote.**
+
 
 
 
