@@ -1,6 +1,6 @@
 ---
 title: Module 2  - Earth's Structure and Composition
-tags: SPS SeniorHigh EarthSci BookOCR
+tags: SPS 🪨 ✍️
 toc: true
 season: summer
 ---

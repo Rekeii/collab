@@ -1,6 +1,6 @@
 ---
 title: Module 1 - The Origin of Earth
-tags: EarthSci SPS SeniorHigh BookOCR
+tags: SPS ✍️ 🪨
 toc: true
 season: winter
 ---

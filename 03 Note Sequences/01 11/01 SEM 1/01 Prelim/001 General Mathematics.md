@@ -1,6 +1,6 @@
 ---
 title: General Mathematics
-tags: GenMath SeniorHigh SPS
+tags: SPS ➕
 toc: true
 season: 
 ---

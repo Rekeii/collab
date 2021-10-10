@@ -1,6 +1,6 @@
 ---
 title: Endogenic Processes
-tags: EarthSci SPS SHS SEM0102 🪨
+tags: 🪨 SPS
 toc: true
 season: summer
 ---

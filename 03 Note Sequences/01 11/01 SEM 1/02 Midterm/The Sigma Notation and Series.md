@@ -1,6 +1,6 @@
 ---
 title: The Sigma Notation and Series
-tags: Precal SHS SPS
+tags: ➕ SPS
 toc: true
 season: 
 ---

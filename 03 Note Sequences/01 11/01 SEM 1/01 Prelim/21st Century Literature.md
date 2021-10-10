@@ -1,6 +1,6 @@
 ---
 title: 21st Century Literature
-tags: SPS SeniorHigh 21stLit Notes
+tags: SPS 📚
 toc: true
 season: summer
 ---

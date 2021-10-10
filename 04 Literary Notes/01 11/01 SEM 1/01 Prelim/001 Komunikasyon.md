@@ -1,6 +1,6 @@
 ---
 title:
-tags: SPS Filipino BookOCR SeniorHigh
+tags: SPS 🇵🇭
 toc: true
 season: summer
 ---
