@@ -40,11 +40,25 @@ Knowing your audience helps you in terms of topic, word choice, examples, langua
 ## Logical Organization
 - **Categorical/Topical** - most *common* pattern. Goal: create categories of information that support the main idea.
 - **Comparison/Contrast** - used to compare and contrast subjects or ideas.
-- **Spatial** - organizes information according to 
+- **Spatial** - organizes information according to how things fit together in physical space. Appropriate when main points are oriented to various locations that can exist independently. Show that your main points have clear locations.
+- **Chronological** - pattern based on time order they appear. In the order which they happened.
+- **Biographical** - used to describe a person's life, speaker's (autobiographical), someone else's, famous person. Mainly informative or entertaining.
+- **Casual** - show cause-and-effect relationships. 
+- **Problem-Cause-Solution** - describes problem, identifies, recommends solution.
+- **Psychological** - *a* leads to *b* and *b* leads to *c*. Typically in persuasive speeches to follow a *logical argument.*
 
 ## Duration
+- should be just long enough to fulfill speech goals and short enough to hold your audience's attention.
 ## Word Choice
+- your choice of words will depend on your audience. 
+- formality of the language is here too and dependent on your audience.
+
 ## Gramatical Correctness
+- edit and revise your speech of the following:
+	- grammar, punctuation, unity, coherence, and others.
+- mistakes can be jarring to hear as an audience and may keep the audience from understanding the main point of the message you're trying to convey.
+- you may lose credibility.
+
 
 # See also:
 1. [[The Principles of Speech Writing#Audience Profile]]
