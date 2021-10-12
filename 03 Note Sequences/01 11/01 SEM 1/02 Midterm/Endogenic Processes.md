@@ -19,6 +19,8 @@ Endogenous processes are caused by forces from *within or in the interior of Ear
 
 They are also responsible for earthquakes, movement of plates leading to development of continents, mountain building, volcanic activities and other movements related to Earth's crust. Some endogenous processes that played a role in the evolution of landforms on Earth are:
 
+
+
 ### Types of Endogenous Processes
 
 #### Magmatism
@@ -37,7 +39,7 @@ Adapted from: https://commons.wikimedia.org/wiki/File:Magmatism_and_volcanism_EN
 - process that happens after magma is formed. 
 - magma tries to escape from the source through openings like volcanoes or existing cracks on the ground. 
 	- comes out with extreme heat and pressure; causes destructive explosions.
-- when magma is outside and on the surface of the Earth, it is not called **lava.**
+- when magma is outside and on the surface of the Earth, it is now called **lava.**
 
 ![[Pasted image 20211001222148.png]]
 

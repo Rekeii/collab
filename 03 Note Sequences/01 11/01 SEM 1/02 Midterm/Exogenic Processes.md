@@ -19,7 +19,7 @@ The exogenous processes are natural processes that occur on or near the surface 
 ### Types of Exogenous Processes
 #### **Weathering**
 - Disintegration of rocks, soils and minerals together with other materials through contact with Earth's subsystems.
-- Can happen without mivoement or transportation (erosion needs movement)
+- Can happen without movement or transportation (erosion needs movement)
 - Happens on the spot.
 
 ##### **Physical Weathering** 
