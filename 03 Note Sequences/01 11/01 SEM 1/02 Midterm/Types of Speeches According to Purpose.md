@@ -132,7 +132,7 @@ People speak because they want to convey information, inspire, persuade, or ente
 ### Types of Appeals
 1. Appeal to Reason **(Logos)**
 	1. rhetorical strategy used to lead the audience in making a conclusion based on facts.
-2. Appeal to Emotions **(Pahots)**
+2. Appeal to Emotions **(Pathos)**
 	1. used to persuade the audience through feelings
 3. Appeal to Character **(Ethos)**
 	1. appeal to ethics, based on the character of the persuader.
